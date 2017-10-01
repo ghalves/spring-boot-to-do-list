@@ -1,2 +1,2 @@
-# spring-boot-todo-list
-A REST application with spring boot
+# PWA To-Do List
+A nice and simple task list made with Spring Boot
